@@ -1,4 +1,4 @@
-cask "thl-kalix" do
+cask "thl-kaliss" do
   version "1.0.0"
   
   # Replace with the actual SHA256 checksum of your compiled macOS DMG file.
@@ -7,7 +7,7 @@ cask "thl-kalix" do
 
   # Replace this with your actual hosted GitHub releases DMG file download link.
   url "https://github.com/thltechnologies/Kaliss-By-THL/releases/download/v#{version}/THL-KALIX-#{version}.dmg"
-  name "THL-KALIX"
+  name "THL-KALISS"
   desc "Système Core Banking Desktop autonome et distribué par THL Technologies"
   homepage "https://github.com/thltechnologies/Kaliss-By-THL"
 
